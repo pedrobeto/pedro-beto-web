@@ -11,7 +11,7 @@ export default function Home() {
       
       <header className={styles.header}>
         <ul className={styles.headerlist}>
-          <li><a target="_blank" href="https://linkedin.com/in/pedrobeda" className={styles.headerlink}>linkedin</a></li>
+          <li><a target="_blank" href="https://www.sitehosting.com.br/" className={styles.headerlink}>linkedin</a></li>
           <li><a target="_blank" href="https://behance.net/pedrobeda" className={styles.headerlink}>behance</a></li>
           <li><a target="_blank" href="https://github.com/pedrobeto" className={styles.headerlink}>github</a></li>
         </ul>
@@ -41,7 +41,7 @@ export default function Home() {
 
       <footer className={styles.footer}>
         <ul className={styles.list}>
-          <li><a target="_blank" href="https://linkedin.com/in/pedrobeda" className={styles.link}>linkedin</a></li>
+          <li><a target="_blank" href="https://www.sitehosting.com.br/" className={styles.link}>linkedin</a></li>
           <li><a target="_blank" href="https://behance.net/pedrobeda" className={styles.link}>behance</a></li>
           <li><a target="_blank" href="https://github.com/pedrobeto" className={styles.link}>github</a></li>
         </ul>
